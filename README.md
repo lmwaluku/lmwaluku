@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lmwaluku
-- 👀 I’m interested in IoT / Microservice / ML / AI and Cloud
-- 🌱 I’m currently learning AWS Platform
+- 👀 IoT | ML | AI | Cloud | 4IR
+- 🌱 Azure | AWS Certified Architect
 - 💞️ I’m looking to collaborate on anything 4IR
 - 📫 How to reach me - through this profile.
 
